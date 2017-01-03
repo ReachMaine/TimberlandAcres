@@ -1,0 +1,218 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+
+<head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+
+    <title>Google Maps</title>
+
+    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAI02KD7chPuEMbvcOQX5KuxSijsss8YldZ9IuHhXg2HoEmU6s1RRVQfvwWrkCpnx1ESx1QQxXYzpPow" type="text/javascript"></script>
+
+  </head>
+
+
+
+<body topmargin="60" bottommargin="0" link="#060778" alink="#0000FF" vlink="#000099">
+
+<!-- DO NOT MOVE! The following AllWebMenus linking code section must always be placed right AFTER the BODY tag-->
+
+<!-- ******** BEGIN ALLWEBMENUS CODE FOR tarv-topmenu ******** -->
+
+<script type="text/javascript">var MenuLinkedBy="AllWebMenus [4]",awmMenuName="tarv-topmenu",awmBN="922";</script><script charset="UTF-8" src="tarv-topmenu.js" type="text/javascript"></script><script type="text/javascript">awmBuildMenu();</script>
+
+<!-- ******** END ALLWEBMENUS CODE FOR tarv-topmenu ******** -->
+
+
+
+  <body onunload="GUnload()">
+
+
+
+
+
+    <div id="map" style="width: 400px; height: 500px"></div>
+
+   
+
+
+
+
+
+    <noscript><b>JavaScript must be enabled in order for you to use Google Maps.</b> 
+
+      However, it seems JavaScript is either disabled or not supported by your browser. 
+
+      To view Google Maps, enable JavaScript by changing your browser options, and then 
+
+      try again.
+
+    </noscript>
+
+ 
+
+
+
+    <script type="text/javascript">
+
+    //<![CDATA[
+
+    
+
+    if (GBrowserIsCompatible()) { 
+
+
+
+      var baseIcon = new GIcon();
+
+          baseIcon.iconSize=new GSize(32,32);
+
+          baseIcon.shadowSize=new GSize(56,32);
+
+          baseIcon.iconAnchor=new GPoint(16,32);
+
+          baseIcon.infoWindowAnchor=new GPoint(16,0);
+
+          
+
+      var arrow = new GIcon(baseIcon, "http://maps.google.com/mapfiles/kml/pal5/icon6.png", null, "http://maps.google.com/mapfiles/kml/pal5/icon6s.png");
+
+    
+
+      // A function to create the marker and set up the event window
+
+      // Dont try to unroll this function. It has to be here for the function closure
+
+      // Each instance of the function preserves the contends of a different instance
+
+      // of the "marker" and "html" variables which will be needed later when the event triggers.    
+
+      function createMarker(point,html,icon) {
+
+        var marker = new GMarker(point,icon);
+
+        GEvent.addListener(marker, "click", function() {
+
+          marker.openInfoWindowHtml(html);
+
+        });
+
+        return marker;
+
+      }
+
+
+
+      // Display the map, with some controls and set the initial location 
+
+      var map = new GMap2(document.getElementById("map"));
+
+      map.addControl(new GLargeMapControl());
+
+      map.addControl(new GMapTypeControl());
+
+      map.setCenter(new GLatLng(44.50764675174355, -68.38972091674804),7);
+
+    
+
+      // Set up three markers with info windows 
+
+    
+
+      var point = new GLatLng(44.50764675174355, -68.38972091674804);
+
+
+
+      var marker = createMarker(point,'<div style="width:240px"font-family: Arial; font-size: 8pt>Bangor Location<br>257 Harlow Street<br>Bangor, Maine<br>(207) 942-6223<br><a target="_blank" href="http://maps.google.com/maps?f=q&hl=en&q=%7B257+Harlow+Street+Bangor+ME+04074%7D&ie=UTF8&om=1&z=15&ll=44.8054832097191,-68.7743067741394&spn=0.015572,0.042658&iwloc=addr">Click here</a> for driving directions.</div>', arrow)
+
+
+
+      map.addOverlay(marker);
+
+
+
+      
+
+
+
+      var point = new GLatLng(46.687307, -68.01314);
+
+
+
+      var marker = createMarker(point,'<div style="width:240px"font-family: Arial; font-size: 8pt>Presque Isle Location<br>541 Main Street<br>Presque Isle, Maine<br>(207) 764-5639<br><a target="_blank" href="http://maps.google.com/maps?f=q&hl=en&q=%7B541+Main+Street,+Presque+Isle+ME+04769%7D&ie=UTF8&om=1&z=15&ll=46.687307,-68.01314&spn=0.015572,0.042658&iwloc=addr">Click here</a> for driving directions.</div>', arrow)
+
+
+
+      map.addOverlay(marker);
+
+
+
+
+
+
+
+      var point = new GLatLng(43.56496, -70.28372);
+
+
+
+      var marker = createMarker(point,'<div style="width:240px"font-family: Arial; font-size: 8pt>Scarborough Location<br>18 Oceanwood Drive<br>Scarborough, Maine<br>(207) 885-9256<br><a target="_blank" href="http://maps.google.com/maps?f=q&hl=en&q=%7B18+Oceanwood+Drive+Scarborough+ME+04074%7D&ie=UTF8&om=1&z=15&ll=43.56496,-70.28372&spn=0.015572,0.042658&iwloc=addr">Click here</a> for driving directions.</div>', arrow)
+
+
+
+      map.addOverlay(marker);
+
+
+
+
+
+
+
+    }
+
+    
+
+    // display a warning if the browser was not compatible
+
+    else {
+
+      alert("Sorry, the Google Maps API is not compatible with this browser");
+
+    }
+
+
+
+    // This Javascript is based on code provided by the
+
+    // Blackpool Community Church Javascript Team
+
+    // http://www.commchurch.freeserve.co.uk/   
+
+    // http://www.econym.demon.co.uk/googlemaps/
+
+
+
+    //]]>
+
+    </script>
+
+ 
+
+
+
+
+
+</body>
+
+
+
+</html>
+
+
+
+
+
+
+
+
+

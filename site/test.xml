@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<title>Tree Structure</title>
+<style type="text/css">
+
+
+</style>
+</head>
+<body>
+<ul>
+ <li style='list-style-type:none'>Main Menu Group
+  <ul>
+   <li style='list-style-type:disc;white-space:nowrap'>[Unnamed Item]
+   </li>
+   <li style='list-style-type:disc;white-space:nowrap'><a href='activities.htm'>Happenings</a>
+   </li>
+   <li style='list-style-type:disc;white-space:nowrap'><a href='about.htm'>Our Campground</a>
+   </li>
+   <li style='list-style-type:disc;white-space:nowrap'><a href='photos.htm'>Memory Book</a>
+   </li>
+   <li style='list-style-type:disc;white-space:nowrap'><a href='directions.htm'>How to Get Here</a>
+   </li>
+   <li style='list-style-type:disc;white-space:nowrap'><a href='rates.htm'>Rates & Specials</a>
+   </li>
+   <li style='list-style-type:disc;white-space:nowrap'><a href='policies.htm'>The Fine Print</a>
+   </li>
+  </ul>
+ </li>
+</ul>
+</body>
+</html>

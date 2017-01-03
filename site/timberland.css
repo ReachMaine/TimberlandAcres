@@ -1,0 +1,97 @@
+body
+{
+	
+	background-color: 464330;	
+	background-image: url(images/backgroundtree.jpg);
+	color: #464330;
+	font-size: 20px;
+	font-family:"Trebuchet MS", Verdana;
+	}
+	li 
+	{
+	list-style-image:url(images/bullet.png);
+	padding-left: 20px;
+	
+}
+
+a:link {
+	color: #BF0E05;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:visited {
+	color: #BF0E05;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: none;
+}
+table-background
+{
+	table-border-color-light: rgb(255,204,102);
+	table-border-color-dark: rgb(204,153,102); 
+}
+
+p
+{font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size: 14px;
+color: #464330;
+line-height: 1.5;
+}
+h1
+{
+	font-family: Trebuchet, Verdana, Arial;
+	color: B41512;
+	font-size: 24px;
+	font-variant: small-caps;
+}
+h2
+{
+	font-family: Trebuchet, Verdana, Arial;
+	color: B41512; 
+	font-size: 18px;
+}
+h3
+{
+	font-family: Trebuchet, Verdana, Arial;
+	color: B41512; 
+	font-size: 14px;
+	font-variant: small-caps;
+}
+h6
+{
+	font-family: Trebuchet, Verdana, Arial;
+	color: B41512; 
+	font-size: 14px;
+	line-height: 10px;
+}
+h5
+{
+	font-family: Trebuchet, Verdana, Arial;
+	color: 868777; 
+	font-size: 18px;
+}
+
+h4
+{
+	font-family: Trebuchet, Verdana, Arial;
+	color: B41512; 
+	font-size: 14px;
+	
+}
+td
+{
+font-size: 14px;
+}
+
+th
+{
+font-size: 12px;
+font-variant: small-caps;
+background-color: 868777;
+color:#FFFFFF;
+}

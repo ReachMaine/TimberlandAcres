@@ -1,0 +1,589 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<photoCollection mode="publish">
+	<display>
+		<style cellBorderColor="#ffffff" cellRolloverColor="#dae4dc" cssVersion="135463674519343946" idplateEnabled="false" 			css="
+				#previewFull {background-color: #ffffff !important; width: 680px !important; color: inherit}
+				#liveUpdateContactInfo {color: #626231 !important; background-color: inherit;}
+				.borderRightDotted {border-right: 1px dotted #ffffff !important;}
+				.logo {display: none !important;}
+				#liveUpdateCollectionDescription {color: #626231 !important; background-color: inherit;}
+				.detailNav, .detailLinks, #detailCaption, #detailTitle {color: #c70505 !important; background-color: inherit;}
+				.emptyThumbnail {background-color: #ffffff !important; color: inherit;}
+				.thumbnail {background-color: #ffffff !important; color: inherit;}
+				.previewFullImage {height: 650px !important; width: 680px !important;}
+				#stage2 {width: 680px !important;}
+				.itemNumber {display: inherit !important; color: #c70505 !important; background-color: inherit;}
+				#content {background-color: #ffffff !important; color: inherit;}
+				.borderTopLeft {border-top: 1px solid #ffffff !important; border-left: 1px solid #ffffff !important;}
+				#stage {width: 645px !important;}
+				.caption {color: #626231 !important; background-color: inherit;}
+				#wrapper2 {width: 680px !important;}
+				.borderBottomRight {border-right: 1px solid #ffffff !important; border-bottom: 1px solid #ffffff !important;}
+				#wrapper {width: 645px !important;}
+				#liveUpdateCollectionTitle {color: #626231 !important; background-color: inherit;}
+				.paginationLinks, .pagination, #liveUpdatePagination {color: #626231 !important; background-color: inherit;}
+				.selectedThumbnail, .thumbnail:hover {background-color: #dae4dc !important; color: inherit;}
+				#liveUpdateSiteTitle {color: #626231 !important; background-color: inherit;}
+				#thumbnailName {color: #c70505 !important; background-color: inherit;}
+				#largeName {color: #c70505 !important; background-color: inherit; margin-top: 10px; margin-left: 7px; margin-right: 7px;}
+				.borderBottom {border-bottom: 1px solid #ffffff !important;}
+				.borderRight {border-right: 1px solid #ffffff !important;}
+				body {background-color: #ffffff !important; color: inherit;}
+			"
+		identityPlateAbsolutePath="" 
+numCols="4" 
+numRows="4" 
+homePage="index.html" 
+imageBase="content" 
+cellColor="#ffffff">
+		</style>
+		<metadata>
+			<creationDate formatted="Tue Dec 04 2012 10:59:05 GMT-0500"></creationDate>
+			<groupTitle value=""></groupTitle>
+			<contactInfo value="" link=""></contactInfo>
+			<siteTitle value="Fun Times at Timberland Acres RV Park"></siteTitle>
+			<groupDescription value=""></groupDescription>
+		</metadata>
+		<localization>
+			<item id="AdobeLightroomWebSite" localized="http://labs.adobe.com/technologies/lightroom/"></item>
+			<item id="AdobeLightroomBeta" localized="Adobe Lightroom Beta"></item>
+			<item id="Fullsize" localized="Fullsize"></item>
+			<item id="Next" localized="Next"></item>
+			<item id="Previous" localized="Previous"></item>
+			<item id="EmptyGallery" localized="There are no images in this gallery."></item>
+			<item id="more" localized="more"></item>
+			<item id="Index" localized="Index"></item>
+		</localization>
+	</display>
+	<head>
+		<siteTitle></siteTitle>
+		<collectionName></collectionName>
+		<collectionTitle></collectionTitle>
+		<collectionDescription></collectionDescription>
+		<contactInfo></contactInfo>
+		<slideDuration></slideDuration>
+		<sizes>
+			<size name="large" height="650" width="650"></size>
+			<size name="thumb" height="129" width="129"></size>
+		</sizes>
+	</head>
+	<samples totalGallerySize="64" firstSampleIndex="1">
+	<img orientation="BC" imageID="0_1354636745203" filename="_0332252313" tipname="%_tempFileName_0332252313%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_0332252313.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_0332252313.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="1_1354636745210" filename="_1270082649" tipname="%_tempFileName_1270082649%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_1270082649.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_1270082649.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="2_1354636745214" filename="_2111817709" tipname="%_tempFileName_2111817709%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_2111817709.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_2111817709.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="3_1354636745219" filename="_9356291560" tipname="%_tempFileName_9356291560%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_9356291560.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_9356291560.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="4_1354636745223" filename="_1255703926" tipname="%_tempFileName_1255703926%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_1255703926.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_1255703926.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="5_1354636745227" filename="_1548996810" tipname="%_tempFileName_1548996810%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_1548996810.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_1548996810.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="6_1354636745232" filename="_5542319018" tipname="%_tempFileName_5542319018%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_5542319018.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_5542319018.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="7_1354636745236" filename="_9634864162" tipname="%_tempFileName_9634864162%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_9634864162.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_9634864162.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="8_1354636745240" filename="_2117343847" tipname="%_tempFileName_2117343847%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_2117343847.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_2117343847.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="9_1354636745245" filename="_0149105318" tipname="%_tempFileName_0149105318%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_0149105318.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_0149105318.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="10_1354636745249" filename="_0230338263" tipname="%_tempFileName_0230338263%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_0230338263.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_0230338263.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="11_1354636745254" filename="_4395511686" tipname="%_tempFileName_4395511686%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_4395511686.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_4395511686.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="12_1354636745258" filename="_3002517874" tipname="%_tempFileName_3002517874%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_3002517874.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_3002517874.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="13_1354636745262" filename="_4209289092" tipname="%_tempFileName_4209289092%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_4209289092.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_4209289092.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="14_1354636745267" filename="_9178275726" tipname="%_tempFileName_9178275726%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_9178275726.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_9178275726.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="15_1354636745271" filename="_9747389881" tipname="%_tempFileName_9747389881%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_9747389881.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_9747389881.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="16_1354636745275" filename="_9776711131" tipname="%_tempFileName_9776711131%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_9776711131.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_9776711131.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="17_1354636745280" filename="_4030634641" tipname="%_tempFileName_4030634641%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_4030634641.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_4030634641.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="18_1354636745284" filename="_4011287409" tipname="%_tempFileName_4011287409%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_4011287409.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_4011287409.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="19_1354636745288" filename="_7678417300" tipname="%_tempFileName_7678417300%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_7678417300.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_7678417300.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="20_1354636745291" filename="_0339566509" tipname="%_tempFileName_0339566509%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_0339566509.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_0339566509.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="21_1354636745294" filename="_2437853261" tipname="%_tempFileName_2437853261%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_2437853261.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_2437853261.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="22_1354636745296" filename="_1990751643" tipname="%_tempFileName_1990751643%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_1990751643.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_1990751643.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="23_1354636745298" filename="_8588905856" tipname="%_tempFileName_8588905856%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_8588905856.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_8588905856.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="24_1354636745300" filename="_8495717411" tipname="%_tempFileName_8495717411%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_8495717411.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_8495717411.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="25_1354636745302" filename="_0018414245" tipname="%_tempFileName_0018414245%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_0018414245.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_0018414245.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="26_1354636745303" filename="_6791608738" tipname="%_tempFileName_6791608738%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_6791608738.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_6791608738.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="27_1354636745305" filename="_4626257839" tipname="%_tempFileName_4626257839%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_4626257839.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_4626257839.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="28_1354636745307" filename="_0043304456" tipname="%_tempFileName_0043304456%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_0043304456.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_0043304456.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="29_1354636745309" filename="_9020019098" tipname="%_tempFileName_9020019098%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_9020019098.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_9020019098.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="30_1354636745311" filename="_8861115268" tipname="%_tempFileName_8861115268%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_8861115268.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_8861115268.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="31_1354636745313" filename="_2240438425" tipname="%_tempFileName_2240438425%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_2240438425.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_2240438425.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="32_1354636745315" filename="_9220383253" tipname="%_tempFileName_9220383253%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_9220383253.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_9220383253.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="33_1354636745317" filename="_0474237170" tipname="%_tempFileName_0474237170%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_0474237170.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_0474237170.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="34_1354636745319" filename="_9332405336" tipname="%_tempFileName_9332405336%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_9332405336.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_9332405336.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="35_1354636745320" filename="_9776821481" tipname="%_tempFileName_9776821481%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_9776821481.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_9776821481.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="36_1354636745321" filename="_6748760524" tipname="%_tempFileName_6748760524%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_6748760524.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_6748760524.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="37_1354636745323" filename="_4853229016" tipname="%_tempFileName_4853229016%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_4853229016.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_4853229016.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="38_1354636745324" filename="_7603633867" tipname="%_tempFileName_7603633867%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_7603633867.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_7603633867.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="39_1354636745325" filename="_3854285726" tipname="%_tempFileName_3854285726%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_3854285726.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_3854285726.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="40_1354636745326" filename="_0737364408" tipname="%_tempFileName_0737364408%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_0737364408.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_0737364408.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="41_1354636745327" filename="_8174447380" tipname="%_tempFileName_8174447380%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_8174447380.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_8174447380.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="42_1354636745329" filename="_8176415642" tipname="%_tempFileName_8176415642%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_8176415642.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_8176415642.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="43_1354636745330" filename="_2212131506" tipname="%_tempFileName_2212131506%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_2212131506.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_2212131506.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="44_1354636745331" filename="_7650473797" tipname="%_tempFileName_7650473797%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_7650473797.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_7650473797.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="45_1354636745332" filename="_2224704715" tipname="%_tempFileName_2224704715%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_2224704715.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_2224704715.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="46_1354636745333" filename="_3010578660" tipname="%_tempFileName_3010578660%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_3010578660.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_3010578660.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="47_1354636745334" filename="_2713504715" tipname="%_tempFileName_2713504715%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_2713504715.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_2713504715.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="48_1354636745335" filename="_6674985188" tipname="%_tempFileName_6674985188%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_6674985188.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_6674985188.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="49_1354636745337" filename="_6190640688" tipname="%_tempFileName_6190640688%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_6190640688.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_6190640688.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="50_1354636745338" filename="_6837094578" tipname="%_tempFileName_6837094578%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_6837094578.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_6837094578.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="51_1354636745339" filename="_4031127664" tipname="%_tempFileName_4031127664%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_4031127664.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_4031127664.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="52_1354636745340" filename="_1544270399" tipname="%_tempFileName_1544270399%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_1544270399.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_1544270399.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="53_1354636745341" filename="_4501658031" tipname="%_tempFileName_4501658031%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_4501658031.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_4501658031.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="54_1354636745342" filename="_6255702025" tipname="%_tempFileName_6255702025%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_6255702025.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_6255702025.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="55_1354636745344" filename="_3602313870" tipname="%_tempFileName_3602313870%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_3602313870.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_3602313870.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="56_1354636745345" filename="_2308168503" tipname="%_tempFileName_2308168503%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_2308168503.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_2308168503.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="57_1354636745346" filename="_2205971482" tipname="%_tempFileName_2205971482%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_2205971482.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_2205971482.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="58_1354636745347" filename="_3363631845" tipname="%_tempFileName_3363631845%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_3363631845.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_3363631845.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="59_1354636745348" filename="_9151882309" tipname="%_tempFileName_9151882309%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_9151882309.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_9151882309.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="60_1354636745349" filename="_5478437170" tipname="%_tempFileName_5478437170%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_5478437170.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_5478437170.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="61_1354636745351" filename="_6270400652" tipname="%_tempFileName_6270400652%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_6270400652.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_6270400652.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="62_1354636745353" filename="_2351534651" tipname="%_tempFileName_2351534651%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_2351534651.jpg" height="350" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_2351534651.jpg" height="69" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="63_1354636745354" filename="_8379676352" tipname="%_tempFileName_8379676352%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_8379676352.jpg" height="487" width="650" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_8379676352.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	</samples>
+	<siteParams>
+		<firstImage index="1"></firstImage>
+		<lastImage index="64"></lastImage>
+		<mode value="all"></mode>
+	</siteParams>
+</photoCollection>
